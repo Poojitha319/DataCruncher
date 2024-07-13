@@ -1,2 +1,2 @@
 # DataCruncher
-All about data science techniques
+All about data science techniques from scratch
